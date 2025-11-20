@@ -1,0 +1,1 @@
+Placeholder for React frontend. Replace with your actual frontend code.
